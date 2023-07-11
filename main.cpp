@@ -70,6 +70,7 @@ int main()
             player = 'O';
         else
             player = 'X';
+        system("cls");
     }
     if(winner == 'X')
         cout << "Player X has won!" << endl;
