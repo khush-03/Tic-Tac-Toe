@@ -8,7 +8,7 @@ This is a simple implementation of the classic Tic Tac Toe game in C++. The game
 -Win detection: The game automatically detects a win condition and declares the winner.
 -Tie condition: If no player wins and all positions are occupied, the game ends in a tie.
 
-###How to Run
+### How to Run
 To run the Tic Tac Toe game, follow these steps:
 
 -Clone this repository or download the source code files.
@@ -16,7 +16,7 @@ To run the Tic Tac Toe game, follow these steps:
 -Run the compiled executable.
 Example (using g++ compiler):
 
-###How to Play
+### How to Play
 1. The game starts with an empty 3x3 grid.
 2. Each player takes turns entering their move by selecting the row and column numbers of the desired position.
 3. The first player is assigned 'X,' and the second is assigned 'O'.
